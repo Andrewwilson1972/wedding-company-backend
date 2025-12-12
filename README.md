@@ -86,3 +86,8 @@ APP_NAME=wedding-backend
 APP_HOST=0.0.0.0
 APP_PORT=8000
 ```
+
+### **Additional questions**
+Yes, the architecture is scalable, but the trade-offs are increased operational complexity and cost, and can be improved by adopting a lighter microservice framework with event driven components, strong caching, and more detailed services boundaries for smoother scaling.
+
+
